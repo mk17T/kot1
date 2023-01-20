@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177274592922",
+    "project_id": "chatapp-c6cae",
+    "storage_bucket": "chatapp-c6cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177274592922:android:b1751d5c95c57318f38923",
+        "android_client_info": {
+          "package_name": "com.duck.kot1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177274592922-om7k30sslfvl8vvmb62ls4l0pt158heu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT_9cuOOmA4Ug35Dujfm1T_DjnXwSc94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177274592922-om7k30sslfvl8vvmb62ls4l0pt158heu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
